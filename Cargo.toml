@@ -1,0 +1,11 @@
+[package]
+name = "layer-shell"
+version = "0.1.0"
+description = "Abstraction crate for floating gtk windows across platofrms. (WIP)"
+authors = ["Hannah Fluch <hannah@diefluchs.at>"]
+edition = "2024"
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/hannahfluch/layer-shell"
+
+[dependencies]
